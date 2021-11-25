@@ -1,1 +1,2 @@
 Finns bara i github
+Denna raden är tillagd i feature1
