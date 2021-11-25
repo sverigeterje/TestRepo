@@ -1,1 +1,3 @@
 Texten tillagd i feature1
+Finns bara i master, nä lite över allt finns den
+Tillagd text i origin
