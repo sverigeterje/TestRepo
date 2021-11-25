@@ -1,3 +1,4 @@
 Texten tillagd i feature1
+nu då
 Finns bara i master, nä lite över allt finns den
 Tillagd text i origin
