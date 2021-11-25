@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Denna ändringen är gjord lokalt i master
+=======
+Finns i master
+>>>>>>> b68eb7b6c0617c16f93e3f386b91849a25ee3fda
